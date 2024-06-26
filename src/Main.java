@@ -11,7 +11,7 @@ public class Main {
         int num = new Scanner(System.in).nextInt();
         // 使用取余的方式判断余数是否为 0 ，为 0 则为偶数
         if(num % 2 == 0){
-            // 输出结果
+            // 输出偶数结果
             System.out.printf("[√] 您输入的数 %s 是偶数.",num);
         //如果取余不为 0 则输出错误信息
         }else{
