@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Is it even:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Is_it_even_jar</output-path>
+    <root id="archive" name="Is it even.jar">
+      <element id="module-output" name="Is it even" />
+    </root>
+  </artifact>
+</component>
